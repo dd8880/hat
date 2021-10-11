@@ -1,0 +1,43 @@
+Planning
+* Initiate a project plan
+* Resource planning with bus advisor
+* Quality planning
+* Phase Review
+
+Marketing Reseach
+* Preliminary study: need analysis, audience analysis, competitor analysis, economic analysis,etc.
+* SWOT & PEST
+* Market segmentation
+* Marketing strategy
+* Product, Prices, Promotion
+----------
+Website
+* Planning, Wireframes, Diagram flow, Site Map
+* Design
+* Content Creation (Landing Page, Product and services description **case studies & testimonials** blog posts, videos, imgages) //https://www.digitalsilk.com/website-development-process
+* Coding (Slice & code)
+* Development (Page templates, Load + edit contents)
+* Launch
+
+Marketing
+* Research
+* UX
+* SoMe Promotion
+
+Launch:
+* Review + Refine
+* Cross browser check
+* Mobile testing
+
+Post Launch:
+* Package source files
+* monitor + finalize
+
+Design
+* Create a persona
+* System construction
+* Support plan for the system
+* System maintanance
+* Evaluation
+Implementation
+Follow up
